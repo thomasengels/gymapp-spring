@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gym-user:war">
+    <output-path>$PROJECT_DIR$/gym-user/target</output-path>
+    <root id="archive" name="user-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="gym-user:war exploded" />
+    </root>
+  </artifact>
+</component>
